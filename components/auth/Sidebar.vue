@@ -10,7 +10,7 @@
       />
       <ul class="navbar-nav px-3">
         <li class="nav-item text-nowrap">
-          <a class="nav-link" href="#">Sign out</a>
+          <nuxt-link class="nav-link" to="/">Sign out</nuxt-link>
         </li>
       </ul>
     </nav>
